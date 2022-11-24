@@ -44,8 +44,8 @@ móvil y cuentan con las siguientes modalidades:<br>
 <tabla>
 <título></título>
   <tr>
-    <td rowspan="3"><div style="text-align: center;">Modalidades de <i>pareja</i></div></td>
-    <td><b>Bote:</b> <br>
+     <td rowspan="3"><div style="text-align: center;">Modalidades en <i>"couple"</i></div></td>
+    <td><b>"Skiff":</b> <br>
     Es el bote individual cuya longitud media es de 8.2my debe pesar como mínimo 14kg.<br>
   <div style="text-align: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Single_scull_%28rowing%29.svg" alt="Skiff" ancho ="100"></div></td>
   </tr>
