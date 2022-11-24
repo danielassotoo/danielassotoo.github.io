@@ -33,8 +33,11 @@ la alta competición ha sido objeto de grandes adelantos en sus <i>modos de entr
 El remo, <b>ha dejado de ser un deporte señorial y exclusivo</b>. Las damas empezaron a participar <i><b>hace más de 
 cien años</b></i>, pero hoy en día aún existen clubes de remo <i>exclusivos para hombres</i>, así como también <i>exclusivos
  de mujeres.</i><br>
-El<tr>
-    <td rowspan="3"><div style="text-align: center;">Modalidades en <i>"couple"</i></div></td>
+El olimpismo conoce al remo como uno de sus deportes básicos casi desde su principio<br>
+ Hoy en dia el programa olímpico de remo cuenta con catorce modalidades tanto en hombres como en mujeres, pesos ligeros y pesados.<br>
+ <h1> Tipos de embarcaciones en el remo olímpico </h1>
+ El remo olímpico es una disciplina del remo en la cual se podría llegar a ir a las olimpiadas. Todos sus embarcaciones son de banco
+móvil y cuentan con las siguientes modalidades:<br>
     <td><b>"Skiff":</b> <br>
     Es el bote individual cuya longitud media es de  8.2m y debe pesar como mínimo 14kg.<br>
   <div style="text-align: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Single_scull_%28rowing%29.svg" alt="Skiff" width="100"></div></td>
